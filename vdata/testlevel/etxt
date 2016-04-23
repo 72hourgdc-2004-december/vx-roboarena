@@ -1,0 +1,228 @@
+newgame
+newent
+classname worldspawn
+newent
+angle 360
+origin -256 0 -144
+classname info_player_start
+newent
+sound alarm 100
+team 4
+light 450
+origin -224 64 0
+classname light
+newent
+team 1
+light 450
+origin 272 112 -112
+classname light
+newent
+team 2
+light 450
+origin 176 -160 -48
+classname light
+newent
+team 3
+light 450
+origin -112 -176 -128
+classname light
+newent
+angle 0
+mesh wires1
+origin 16 -32 96
+classname decor
+newent
+angle 289
+mesh wires1
+origin 128 -32 96
+classname decor
+newent
+angle 254
+mesh wires1
+origin -48 64 96
+classname decor
+newent
+angle 233
+mesh wires1
+origin 304 -144 96
+classname decor
+newent
+angle 325
+mesh wires1
+origin -208 -144 96
+classname decor
+newent
+angle 233
+mesh wires1
+origin -144 112 96
+classname decor
+newent
+angle 306
+mesh wires1
+origin -80 -16 96
+classname decor
+newent
+angle 157
+mesh wires1
+origin 176 48 96
+classname decor
+newent
+ai 500
+angle 360
+robo baaa
+origin 1376 1024 -16
+classname enemy
+newent
+ai 1500
+angle 91
+robo aaaa
+origin 1824 1344 -16
+classname enemy
+newent
+ai 700
+angle 360
+robo bbaa
+origin 992 3584 -16
+classname enemy
+newent
+ai 1500
+angle 90
+robo aaaa
+origin 992 1728 -336
+classname enemy
+newent
+ai 1000
+angle 270
+robo abaa
+origin 1440 3328 -272
+classname enemy
+newent
+flare 2
+origin 0 160 0
+classname flare
+newent
+flare 2
+origin 0 -192 0
+classname flare
+newent
+flare 2
+origin 70.4 160 0
+classname flare
+newent
+flare 2
+origin 70.4 -192 0
+classname flare
+newent
+flare 2
+origin 140.8 160 0
+classname flare
+newent
+flare 2
+origin 140.8 -192 0
+classname flare
+newent
+flare 2
+origin 211.2 160 0
+classname flare
+newent
+flare 2
+origin 211.2 -192 0
+classname flare
+newent
+flare 2
+origin 281.6 160 0
+classname flare
+newent
+flare 2
+origin 281.6 -192 0
+classname flare
+newent
+flare 2
+origin 352 160 0
+classname flare
+newent
+flare 2
+origin 352 -192 0
+classname flare
+newent
+team 1
+light 600
+origin 784 80 -16
+classname light
+newent
+team 1
+light 1000
+origin 1360 -48 80
+classname light
+newent
+team 5
+light 4000
+origin 1632 896 416
+classname light
+newent
+flare 3
+team 3
+light 1000
+origin 1216 1120 224
+classname light
+newent
+flare 3
+team 3
+light 1000
+origin 2016 1120 224
+classname light
+newent
+flare 3
+team 3
+light 1000
+origin 2016 512 224
+classname light
+newent
+flare 3
+team 3
+light 1000
+origin 1216 512 224
+classname light
+newent
+flare 2
+team 2
+light 700
+origin 992 3552 120
+classname light
+newent
+flare 2
+team 2
+light 700
+origin 992 2016 120
+classname light
+newent
+flare 3
+team 3
+light 700
+origin 1824 2016 120
+classname light
+newent
+flare 3
+team 3
+light 700
+origin 1824 2528 120
+classname light
+newent
+flare 3
+team 3
+light 700
+origin 1824 3040 120
+classname light
+newent
+flare 3
+team 3
+light 700
+origin 1824 3552 120
+classname light
+newent
+flare 3
+team 3
+light 700
+origin 1824 1504 120
+classname light
+entend
